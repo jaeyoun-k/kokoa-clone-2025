@@ -1,3 +1,5 @@
 # Kokoa Clone 2025 Practice
 
-Learn HTML and CSS.
+Learning HTML and CSS.
+
+This line is a dummy line for checking changes.
